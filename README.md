@@ -1,6 +1,6 @@
 # ReproVar
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21901951.svg)](https://doi.org/10.5281/zenodo.21901951)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21901950.svg)](https://doi.org/10.5281/zenodo.21901950)
 
 **An auditable mini-benchmark for public cancer-variant evidence retrieval**
 
