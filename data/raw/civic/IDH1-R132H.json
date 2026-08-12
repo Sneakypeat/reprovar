@@ -1,0 +1,148 @@
+{
+  "query": "R132H",
+  "response": {
+    "data": {
+      "evidenceItems": {
+        "nodes": [
+          {
+            "disease": {
+              "doid": "0080829",
+              "id": 3047,
+              "name": "Low Grade Glioma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 11508,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-10-29T18:46:15Z"
+            },
+            "molecularProfile": {
+              "id": 5298,
+              "name": "IDH1 R132C OR IDH1 R132H OR IDH1 R132L OR IDH1 R132G OR IDH1 R132S"
+            },
+            "name": "EID11508",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "37272516",
+              "id": 4762,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4490,
+                "name": "Vorasidenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3498",
+              "id": 141,
+              "name": "Pancreatic Ductal Adenocarcinoma"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 5987,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 416,
+              "name": "IDH1 R132H"
+            },
+            "name": "EID5987",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27466707",
+              "id": 1360,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 454,
+                "name": "Ivosidenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3181",
+              "id": 241,
+              "name": "Oligodendroglioma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 979,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-02-07T23:35:57Z"
+            },
+            "molecularProfile": {
+              "id": 416,
+              "name": "IDH1 R132H"
+            },
+            "name": "EID979",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23558169",
+              "id": 678,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 473,
+                "name": "AGI-5198"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9119",
+              "id": 3,
+              "name": "Acute Myeloid Leukemia"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 12903,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-07-02T18:29:23Z"
+            },
+            "molecularProfile": {
+              "id": 5963,
+              "name": "IDH1 R132C OR IDH1 R132H"
+            },
+            "name": "EID12903",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "29670690",
+              "id": 5559,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 454,
+                "name": "Ivosidenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          }
+        ],
+        "totalCount": 4
+      }
+    }
+  },
+  "retrieved_at": "2026-08-12T09:59:12.999536+00:00",
+  "source_url": "https://civicdb.org/"
+}

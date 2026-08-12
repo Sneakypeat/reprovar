@@ -1,0 +1,307 @@
+{
+  "query": "BRCA2[gene] AND c.5946delT[variant name]",
+  "response": {
+    "header": {
+      "type": "esummary",
+      "version": "0.3"
+    },
+    "result": {
+      "9325": {
+        "accession": "VCV000009325",
+        "accession_version": "VCV000009325.168",
+        "chr_sort": "13",
+        "clinical_impact_classification": {
+          "description": "",
+          "fda_recognized_database": "",
+          "last_evaluated": "1/01/01 00:00",
+          "review_status": "",
+          "trait_set": []
+        },
+        "fda_recognized_database": "true",
+        "gene_sort": "BRCA2",
+        "genes": [
+          {
+            "geneid": "675",
+            "source": "submitted",
+            "strand": "+",
+            "symbol": "BRCA2"
+          }
+        ],
+        "germline_classification": {
+          "description": "Pathogenic",
+          "fda_recognized_database": "true",
+          "last_evaluated": "2024/06/11 00:00",
+          "review_status": "reviewed by expert panel",
+          "trait_set": [
+            {
+              "trait_name": "BRCA2-related cancer predisposition",
+              "trait_xrefs": [
+                {
+                  "db_id": "CN377758",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0700269",
+                  "db_source": "MONDO"
+                }
+              ]
+            }
+          ]
+        },
+        "location_sort": "00000000000032340301",
+        "molecular_consequence_list": [
+          "frameshift variant"
+        ],
+        "obj_type": "Deletion",
+        "oncogenicity_classification": {
+          "description": "",
+          "fda_recognized_database": "",
+          "last_evaluated": "1/01/01 00:00",
+          "review_status": "",
+          "trait_set": []
+        },
+        "protein_change": "S1982fs",
+        "record_status": "",
+        "supporting_submissions": {
+          "rcv": [
+            "RCV000009910",
+            "RCV000009911",
+            "RCV000009912",
+            "RCV000034451",
+            "RCV000129627",
+            "RCV000044800",
+            "RCV000212245",
+            "RCV000414179",
+            "RCV000768632",
+            "RCV000367838",
+            "RCV000785226",
+            "RCV003128125",
+            "RCV004566711",
+            "RCV001535431",
+            "RCV005007837",
+            "RCV006635238",
+            "RCV006449925"
+          ],
+          "scv": [
+            "SCV000189906",
+            "SCV000030127",
+            "SCV000195993",
+            "SCV000054198",
+            "SCV000030132",
+            "SCV000030133",
+            "SCV000484936",
+            "SCV000575747",
+            "SCV000593749",
+            "SCV000679720",
+            "SCV000744479",
+            "SCV000383728",
+            "SCV000923794",
+            "SCV001450241",
+            "SCV001478111",
+            "SCV000592016",
+            "SCV001798609",
+            "SCV001926441",
+            "SCV001934380",
+            "SCV002037347",
+            "SCV002536189",
+            "SCV000605651",
+            "SCV000838826",
+            "SCV003804351",
+            "SCV000108631",
+            "SCV000219371",
+            "SCV005045989",
+            "SCV004101432",
+            "SCV004846675",
+            "SCV005633943",
+            "SCV000225181",
+            "SCV000245334",
+            "SCV001749320",
+            "SCV002581177",
+            "SCV000184420",
+            "SCV000292121",
+            "SCV000043218",
+            "SCV000154098",
+            "SCV006276300",
+            "SCV000693574",
+            "SCV000296747",
+            "SCV000072813",
+            "SCV007495097",
+            "SCV007519437",
+            "SCV007602245",
+            "SCV000146737",
+            "SCV000492446",
+            "SCV000587812",
+            "SCV000733276",
+            "SCV000787938",
+            "SCV000803796",
+            "SCV000809465",
+            "SCV000839905",
+            "SCV000996186",
+            "SCV000918979",
+            "SCV001906091",
+            "SCV002025788",
+            "SCV002570374",
+            "SCV000086654",
+            "SCV002588896",
+            "SCV000327312",
+            "SCV002764549",
+            "SCV002526014",
+            "SCV002010347",
+            "SCV004041350",
+            "SCV004042779",
+            "SCV000605785",
+            "SCV000540997",
+            "SCV005073662",
+            "SCV005199797",
+            "SCV000805732",
+            "SCV000263344",
+            "SCV001762173",
+            "SCV004037369",
+            "SCV005368163",
+            "SCV002019064",
+            "SCV005398704",
+            "SCV002550357",
+            "SCV000778694",
+            "SCV007330114",
+            "SCV000602754",
+            "SCV007448694",
+            "SCV007580017",
+            "SCV007596365",
+            "SCV007602299",
+            "SCV002761748",
+            "SCV001501475"
+          ]
+        },
+        "title": "NM_000059.4(BRCA2):c.5946del (p.Ser1982fs)",
+        "uid": "9325",
+        "variation_set": [
+          {
+            "aliases": [
+              "NP_000050.3:p.Ser1982ArgfsTer22",
+              "NM_000059.4(BRCA2):c.5946del",
+              "6174delT"
+            ],
+            "allele_freq_set": [
+              {
+                "minor_allele": "",
+                "source": "Trans-Omics for Precision Medicine (TOPMed)",
+                "value": "0.00011"
+              },
+              {
+                "minor_allele": "",
+                "source": "The Genome Aggregation Database (gnomAD), exomes",
+                "value": "0.00012"
+              },
+              {
+                "minor_allele": "",
+                "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+                "value": "0.00016"
+              },
+              {
+                "minor_allele": "",
+                "source": "The Genome Aggregation Database (gnomAD)",
+                "value": "0.00017"
+              },
+              {
+                "minor_allele": "",
+                "source": "The Genome Aggregation Database (gnomAD)",
+                "value": "0.00019"
+              },
+              {
+                "minor_allele": "",
+                "source": "Exome Aggregation Consortium (ExAC)",
+                "value": "0.00027"
+              },
+              {
+                "minor_allele": "",
+                "source": "The Genome Aggregation Database (gnomAD), exomes",
+                "value": "0.00029"
+              }
+            ],
+            "canonical_spdi": "NC_000013.11:32340300:T:",
+            "cdna_change": "c.5946del",
+            "common_name": "",
+            "measure_id": "24364",
+            "variant_type": "Deletion",
+            "variation_loc": [
+              {
+                "alt": "",
+                "annotation_release": "",
+                "assembly_acc_ver": "GCF_000001405.38",
+                "assembly_name": "GRCh38",
+                "band": "13q13.1",
+                "chr": "13",
+                "display_start": "32340301",
+                "display_stop": "32340301",
+                "inner_start": "",
+                "inner_stop": "",
+                "outer_start": "",
+                "outer_stop": "",
+                "ref": "",
+                "start": "32340301",
+                "status": "current",
+                "stop": "32340301"
+              },
+              {
+                "alt": "",
+                "annotation_release": "",
+                "assembly_acc_ver": "GCF_000001405.25",
+                "assembly_name": "GRCh37",
+                "band": "13q13.1",
+                "chr": "13",
+                "display_start": "32914438",
+                "display_stop": "32914438",
+                "inner_start": "",
+                "inner_stop": "",
+                "outer_start": "",
+                "outer_stop": "",
+                "ref": "",
+                "start": "32914438",
+                "status": "previous",
+                "stop": "32914438"
+              }
+            ],
+            "variation_name": "NM_000059.4(BRCA2):c.5946del (p.Ser1982fs)",
+            "variation_xrefs": [
+              {
+                "db_id": "6174&base_change=del T",
+                "db_source": "Breast Cancer Information Core (BIC) (BRCA2)"
+              },
+              {
+                "db_id": "CA023403",
+                "db_source": "ClinGen"
+              },
+              {
+                "db_id": "GTR000566692",
+                "db_source": "Genetic Testing Registry (GTR)"
+              },
+              {
+                "db_id": "GTR000613600",
+                "db_source": "Genetic Testing Registry (GTR)"
+              },
+              {
+                "db_id": "600185.0005",
+                "db_source": "OMIM"
+              },
+              {
+                "db_id": "600185.0009",
+                "db_source": "OMIM"
+              },
+              {
+                "db_id": "80359550",
+                "db_source": "dbSNP"
+              }
+            ]
+          }
+        ],
+        "variation_set_id": "",
+        "variation_set_name": ""
+      },
+      "uids": [
+        "9325"
+      ]
+    }
+  },
+  "retrieved_at": "2026-08-12T09:59:03.886616+00:00",
+  "source_url": "https://www.ncbi.nlm.nih.gov/clinvar/variation/9325/"
+}

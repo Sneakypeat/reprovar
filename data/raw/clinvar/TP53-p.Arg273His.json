@@ -1,0 +1,356 @@
+{
+  "query": "TP53[gene] AND c.818G>A[variant name]",
+  "response": {
+    "header": {
+      "type": "esummary",
+      "version": "0.3"
+    },
+    "result": {
+      "12366": {
+        "accession": "VCV000012366",
+        "accession_version": "VCV000012366.80",
+        "chr_sort": "17",
+        "clinical_impact_classification": {
+          "description": "Tier I - Strong",
+          "fda_recognized_database": "",
+          "last_evaluated": "2025/10/31 00:00",
+          "review_status": "criteria provided, single submitter",
+          "trait_set": [
+            {
+              "trait_name": "Diffuse midline glioma, H3 K27M-mutant",
+              "trait_xrefs": [
+                {
+                  "db_id": "C4289688",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0957196",
+                  "db_source": "MONDO"
+                }
+              ]
+            },
+            {
+              "trait_name": "Diffuse pediatric-type high-grade glioma, H3-wildtype and IDH-wildtype",
+              "trait_xrefs": [
+                {
+                  "db_id": "C5669918",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0858939",
+                  "db_source": "MONDO"
+                }
+              ]
+            },
+            {
+              "trait_name": "Rhabdomyosarcoma",
+              "trait_xrefs": [
+                {
+                  "db_id": "780",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C0035412",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "D012208",
+                  "db_source": "MeSH"
+                },
+                {
+                  "db_id": "MONDO:0005212",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "HP:0002859",
+                  "db_source": "Human Phenotype Ontology"
+                }
+              ]
+            },
+            {
+              "trait_name": "Ewing sarcoma",
+              "trait_xrefs": [
+                {
+                  "db_id": "2677",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "319",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C0553580",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0012817",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "612219",
+                  "db_source": "OMIM"
+                },
+                {
+                  "db_id": "HP:0012254",
+                  "db_source": "Human Phenotype Ontology"
+                }
+              ]
+            }
+          ]
+        },
+        "fda_recognized_database": "true",
+        "gene_sort": "TP53",
+        "genes": [
+          {
+            "geneid": "7157",
+            "source": "submitted",
+            "strand": "-",
+            "symbol": "TP53"
+          }
+        ],
+        "germline_classification": {
+          "description": "Pathogenic",
+          "fda_recognized_database": "true",
+          "last_evaluated": "2024/08/05 00:00",
+          "review_status": "reviewed by expert panel",
+          "trait_set": [
+            {
+              "trait_name": "Li-Fraumeni syndrome",
+              "trait_xrefs": [
+                {
+                  "db_id": "524",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C0085390",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0018875",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "PS151623",
+                  "db_source": "OMIM"
+                }
+              ]
+            }
+          ]
+        },
+        "location_sort": "00000000000007673802",
+        "molecular_consequence_list": [
+          "missense variant"
+        ],
+        "obj_type": "single nucleotide variant",
+        "oncogenicity_classification": {
+          "description": "Oncogenic",
+          "fda_recognized_database": "",
+          "last_evaluated": "2025/03/04 00:00",
+          "review_status": "criteria provided, single submitter",
+          "trait_set": [
+            {
+              "trait_name": "Neoplasm",
+              "trait_xrefs": [
+                {
+                  "db_id": "C0027651",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "D009369",
+                  "db_source": "MeSH"
+                },
+                {
+                  "db_id": "MONDO:0005070",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "HP:0002664",
+                  "db_source": "Human Phenotype Ontology"
+                },
+                {
+                  "db_id": "HP:0003008",
+                  "db_source": "Human Phenotype Ontology"
+                },
+                {
+                  "db_id": "HP:0006741",
+                  "db_source": "Human Phenotype Ontology"
+                }
+              ]
+            }
+          ]
+        },
+        "protein_change": "R273H, R141H, R234H, R114H",
+        "record_status": "",
+        "supporting_submissions": {
+          "rcv": [
+            "RCV000013163",
+            "RCV000013164",
+            "RCV000115738",
+            "RCV000254693",
+            "RCV000431361",
+            "RCV000441169",
+            "RCV000422097",
+            "RCV000463420",
+            "RCV000785345",
+            "RCV001257517",
+            "RCV001358389",
+            "RCV001527470",
+            "RCV001527484",
+            "RCV003162246",
+            "RCV003466853",
+            "RCV003492292",
+            "RCV004797590",
+            "RCV005003353",
+            "RCV006253498",
+            "RCV006253499",
+            "RCV006253496",
+            "RCV006253497"
+          ],
+          "scv": [
+            "SCV000033410",
+            "SCV000033411",
+            "SCV000602280",
+            "SCV002072052",
+            "SCV000839110",
+            "SCV003806294",
+            "SCV004043518",
+            "SCV004239792",
+            "SCV004848862",
+            "SCV000697450",
+            "SCV001142550",
+            "SCV000611327",
+            "SCV005685072",
+            "SCV001762058",
+            "SCV006321916",
+            "SCV007105500",
+            "SCV007105534",
+            "SCV007105589",
+            "SCV007105622",
+            "SCV007449409",
+            "SCV000190004",
+            "SCV000692068",
+            "SCV001434343",
+            "SCV001554107",
+            "SCV001738487",
+            "SCV001738490",
+            "SCV001738505",
+            "SCV000605425",
+            "SCV002059231",
+            "SCV002764339",
+            "SCV004206253",
+            "SCV005094393",
+            "SCV004026686",
+            "SCV001735236",
+            "SCV002572762",
+            "SCV007104721",
+            "SCV000923913",
+            "SCV000821786",
+            "SCV001478190",
+            "SCV002758479",
+            "SCV000149647",
+            "SCV004823764",
+            "SCV005402346",
+            "SCV005419164",
+            "SCV000186052",
+            "SCV001450494",
+            "SCV000677727",
+            "SCV006277773",
+            "SCV000545317",
+            "SCV007580123",
+            "SCV007602357"
+          ]
+        },
+        "title": "NM_000546.6(TP53):c.818G>A (p.Arg273His)",
+        "uid": "12366",
+        "variation_set": [
+          {
+            "aliases": [
+              "p.R273H:CGT>CAT"
+            ],
+            "allele_freq_set": [
+              {
+                "minor_allele": "",
+                "source": "Trans-Omics for Precision Medicine (TOPMed)",
+                "value": "0.00002"
+              },
+              {
+                "minor_allele": "T",
+                "source": "1000 Genomes Project",
+                "value": "0.00020"
+              }
+            ],
+            "canonical_spdi": "NC_000017.11:7673801:C:T",
+            "cdna_change": "c.818G>A",
+            "common_name": "",
+            "measure_id": "27405",
+            "variant_type": "single nucleotide variant",
+            "variation_loc": [
+              {
+                "alt": "",
+                "annotation_release": "",
+                "assembly_acc_ver": "GCF_000001405.38",
+                "assembly_name": "GRCh38",
+                "band": "17p13.1",
+                "chr": "17",
+                "display_start": "7673802",
+                "display_stop": "7673802",
+                "inner_start": "",
+                "inner_stop": "",
+                "outer_start": "",
+                "outer_stop": "",
+                "ref": "",
+                "start": "7673802",
+                "status": "current",
+                "stop": "7673802"
+              },
+              {
+                "alt": "",
+                "annotation_release": "",
+                "assembly_acc_ver": "GCF_000001405.25",
+                "assembly_name": "GRCh37",
+                "band": "17p13.1",
+                "chr": "17",
+                "display_start": "7577120",
+                "display_stop": "7577120",
+                "inner_start": "",
+                "inner_stop": "",
+                "outer_start": "",
+                "outer_stop": "",
+                "ref": "",
+                "start": "7577120",
+                "status": "previous",
+                "stop": "7577120"
+              }
+            ],
+            "variation_name": "NM_000546.6(TP53):c.818G>A (p.Arg273His)",
+            "variation_xrefs": [
+              {
+                "db_id": "CA000434",
+                "db_source": "ClinGen"
+              },
+              {
+                "db_id": "P04637#VAR_005995",
+                "db_source": "UniProtKB"
+              },
+              {
+                "db_id": "191170.0020",
+                "db_source": "OMIM"
+              },
+              {
+                "db_id": "28934576",
+                "db_source": "dbSNP"
+              }
+            ]
+          }
+        ],
+        "variation_set_id": "",
+        "variation_set_name": ""
+      },
+      "uids": [
+        "12366"
+      ]
+    }
+  },
+  "retrieved_at": "2026-08-12T09:59:05.619035+00:00",
+  "source_url": "https://www.ncbi.nlm.nih.gov/clinvar/variation/12366/"
+}

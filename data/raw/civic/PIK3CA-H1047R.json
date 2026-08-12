@@ -1,0 +1,1063 @@
+{
+  "query": "H1047R",
+  "response": {
+    "data": {
+      "evidenceItems": {
+        "nodes": [
+          {
+            "disease": {
+              "doid": "1612",
+              "id": 22,
+              "name": "Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 7318,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-10-21T17:26:56Z"
+            },
+            "molecularProfile": {
+              "id": 5288,
+              "name": "PIK3CA H1047R OR PIK3CA H1047Y OR PIK3CA H1047L"
+            },
+            "name": "EID7318",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "31091374",
+              "id": 2888,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 570,
+                "name": "Alpelisib"
+              },
+              {
+                "id": 54,
+                "name": "Fulvestrant"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1612",
+              "id": 22,
+              "name": "Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 12533,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 5556,
+              "name": "PIK3CA H1047R OR PIK3CA H1047Y OR PIK3CA H1047L OR PIK3CA H1047D OR PIK3CA H1047I OR PIK3CA H1047N OR PIK3CA H1047P OR PIK3CA H1047Q OR PIK3CA H1047T"
+            },
+            "name": "EID12533",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "40845250",
+              "id": 5358,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 2688,
+                "name": "Inavolisib"
+              },
+              {
+                "id": 429,
+                "name": "Palbociclib"
+              },
+              {
+                "id": 54,
+                "name": "Fulvestrant"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1612",
+              "id": 22,
+              "name": "Breast Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 6191,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-05-06T23:15:07Z"
+            },
+            "molecularProfile": {
+              "id": 5416,
+              "name": "PIK3CA E542K OR PIK3CA E545K OR PIK3CA H1047R"
+            },
+            "name": "EID6191",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "18371219",
+              "id": 2481,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 3014,
+                "name": "FAC Regimen"
+              },
+              {
+                "id": 9751,
+                "name": "FEC Regimen"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 258,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-11-02T21:51:42Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID258",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19223544",
+              "id": 176,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1612",
+              "id": 22,
+              "name": "Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PROGNOSTIC",
+            "id": 2097,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-10-28T00:41:30Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID2097",
+            "significance": "BETTER_OUTCOME",
+            "source": {
+              "citationId": "19671852",
+              "id": 1444,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1612",
+              "id": 22,
+              "name": "Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PROGNOSTIC",
+            "id": 2100,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2019-08-08T20:22:30Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID2100",
+            "significance": "BETTER_OUTCOME",
+            "source": {
+              "citationId": "17202311",
+              "id": 1445,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "6587",
+              "id": 1627,
+              "name": "Breast Tubular Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 1,
+            "evidenceType": "PROGNOSTIC",
+            "id": 3047,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-12-05T21:46:40Z"
+            },
+            "molecularProfile": {
+              "id": 5319,
+              "name": "PIK3CA H1047R OR PIK3CA H1047L"
+            },
+            "name": "EID3047",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "28269754",
+              "id": 1751,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 3841,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-11-25T22:43:19Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID3841",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "20619739",
+              "id": 76,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 101,
+                "name": "Irinotecan"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 388,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-11-02T21:41:52Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID388",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19223544",
+              "id": 176,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1623,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1623",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27445490",
+              "id": 1075,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 41,
+                "name": "Everolimus"
+              },
+              {
+                "id": 54,
+                "name": "Fulvestrant"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1612",
+              "id": 22,
+              "name": "Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 314,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID314",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "21558396",
+              "id": 195,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 66,
+                "name": "Izorlisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 2096,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-02-16T19:56:48Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID2096",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "20453058",
+              "id": 1435,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 141,
+                "name": "Pictilisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 6204,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-01-28T21:28:55Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID6204",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19010894",
+              "id": 2486,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 45,
+                "name": "Lapatinib"
+              },
+              {
+                "id": 84,
+                "name": "Trastuzumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "D",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 6206,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-01-28T21:24:07Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID6206",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19010894",
+              "id": 2486,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 343,
+                "name": "Dactolisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1447,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-11-05T23:21:27Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1447",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "19029981",
+              "id": 193,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 343,
+                "name": "Dactolisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1505,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1505",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22294718",
+              "id": 1005,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 112,
+                "name": "Capivasertib"
+              },
+              {
+                "id": 84,
+                "name": "Trastuzumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1506,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-11-05T23:21:50Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1506",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22294718",
+              "id": 1005,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 112,
+                "name": "Capivasertib"
+              },
+              {
+                "id": 45,
+                "name": "Lapatinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1781",
+              "id": 16,
+              "name": "Thyroid Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1625,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1625",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "19706758",
+              "id": 1076,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 389,
+                "name": "Perifosine"
+              },
+              {
+                "id": 83,
+                "name": "Temsirolimus"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2103,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-07-27T01:55:21Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID2103",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "26920887",
+              "id": 1468,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 457,
+                "name": "Trastuzumab Emtansine"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 3733,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-06-18T22:20:13Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID3733",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "22180495",
+              "id": 108,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 6202,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-06-12T18:52:31Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID6202",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19010894",
+              "id": 2486,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 45,
+                "name": "Lapatinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 6203,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-12-18T00:09:29Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID6203",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19010894",
+              "id": 2486,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 84,
+                "name": "Trastuzumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 8364,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-06-18T22:21:06Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID8364",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22180495",
+              "id": 108,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 43,
+                "name": "Akt Inhibitor MK2206"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "11934",
+              "id": 453,
+              "name": "Head And Neck Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1362,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-06-22T19:27:09Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1362",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23619167",
+              "id": 927,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 343,
+                "name": "Dactolisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "11934",
+              "id": 453,
+              "name": "Head And Neck Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1363,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-06-08T21:29:01Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1363",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23619167",
+              "id": 927,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 343,
+                "name": "Dactolisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "5520",
+              "id": 37,
+              "name": "Head And Neck Squamous Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1465,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1465",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26589432",
+              "id": 984,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 660,
+                "name": "Taselisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1612",
+              "id": 22,
+              "name": "Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 2102,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-07-25T19:17:45Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID2102",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "20453058",
+              "id": 1435,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 141,
+                "name": "Pictilisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0060079",
+              "id": 368,
+              "name": "HER2 Positive Breast Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 8548,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-08-14T20:58:54Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID8548",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "26920887",
+              "id": 1468,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 84,
+                "name": "Trastuzumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "11934",
+              "id": 453,
+              "name": "Head And Neck Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 1,
+            "evidenceType": "PREDICTIVE",
+            "id": 1361,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-06-22T19:27:42Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1361",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25855885",
+              "id": 926,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 343,
+                "name": "Dactolisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "11934",
+              "id": 453,
+              "name": "Head And Neck Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 1,
+            "evidenceType": "PREDICTIVE",
+            "id": 1401,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-06-28T22:10:38Z"
+            },
+            "molecularProfile": {
+              "id": 107,
+              "name": "PIK3CA H1047R"
+            },
+            "name": "EID1401",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25550549",
+              "id": 949,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 570,
+                "name": "Alpelisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          }
+        ],
+        "totalCount": 30
+      }
+    }
+  },
+  "retrieved_at": "2026-08-12T09:59:14.053463+00:00",
+  "source_url": "https://civicdb.org/"
+}

@@ -1,0 +1,11 @@
+key	domain	gene	input_variant	source	query	source_record	rationale
+BRCA1-c.68_69del	germline	BRCA1	NM_007294.4:c.68_69del	ClinVar	c.68_69delAG		founder frameshift with expert-panel review
+BRCA2-c.5946del	germline	BRCA2	NM_000059.4:c.5946del	ClinVar	c.5946delT		founder frameshift in hereditary breast and ovarian cancer
+TP53-p.Arg273His	germline	TP53	NM_000546.6:c.818G>A	ClinVar	c.818G>A		Li-Fraumeni syndrome hotspot missense variant
+MLH1-p.Lys618del	germline	MLH1	NM_000249.4:c.1852_1854del	ClinVar	c.1852_1854del		in-frame deletion useful for reviewing assertion history
+MUTYH-p.Gly396Asp	germline	MUTYH	NM_001128425.2:c.1187G>A	ClinVar	c.1187G>A	5294	common pathogenic recessive cancer-predisposition allele
+BRAF-V600E	somatic	BRAF	p.Val600Glu	CIViC	V600E		actionable hotspot with disease-specific assertions
+EGFR-L858R	somatic	EGFR	p.Leu858Arg	CIViC	L858R		actionable lung-cancer hotspot
+KRAS-G12C	somatic	KRAS	p.Gly12Cys	CIViC	G12C		actionable hotspot with tumour-context dependence
+IDH1-R132H	somatic	IDH1	p.Arg132His	CIViC	R132H		diagnostic and prognostic relevance across tumour types
+PIK3CA-H1047R	somatic	PIK3CA	p.His1047Arg	CIViC	H1047R		predictive hotspot with therapy-specific evidence

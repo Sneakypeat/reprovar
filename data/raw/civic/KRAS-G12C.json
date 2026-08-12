@@ -1,0 +1,636 @@
+{
+  "query": "G12C",
+  "response": {
+    "data": {
+      "evidenceItems": {
+        "nodes": [
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 9431,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2023-01-06T20:14:33Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID9431",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "34096690",
+              "id": 4080,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 654,
+                "name": "Sotorasib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 12063,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-08-16T19:18:01Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID12063",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "38587856",
+              "id": 5031,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 693,
+                "name": "Adagrasib"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 12264,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID12264",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "37870968",
+              "id": 5166,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 654,
+                "name": "Sotorasib"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 11652,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-01-08T22:36:57Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID11652",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "37611121",
+              "id": 4818,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 20999,
+                "name": "Divarasib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1216,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-10-10T22:52:55Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID1216",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "23313110",
+              "id": 839,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              },
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 1217,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-04-06T16:52:40Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID1217",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "22247021",
+              "id": 840,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 3967,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-11-25T00:38:35Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID3967",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "20619739",
+              "id": 76,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 199,
+                "name": "Chemotherapy"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1324",
+              "id": 23,
+              "name": "Lung Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "DIAGNOSTIC",
+            "id": 227,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID227",
+            "significance": "POSITIVE",
+            "source": {
+              "citationId": "23014527",
+              "id": 161,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1142,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-01-29T23:03:30Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID1142",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26125448",
+              "id": 791,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 73,
+                "name": "Docetaxel"
+              },
+              {
+                "id": 63,
+                "name": "Selumetinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1324",
+              "id": 23,
+              "name": "Lung Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 2257,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-04-11T19:49:13Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID2257",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "17409929",
+              "id": 1416,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2253,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-07-08T07:46:07Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID2253",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "18316791",
+              "id": 1412,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9538",
+              "id": 41,
+              "name": "Multiple Myeloma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": null,
+            "evidenceType": "PREDICTIVE",
+            "id": 2262,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID2262",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "12483530",
+              "id": 1421,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 328,
+                "name": "Melphalan"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "162",
+              "id": 216,
+              "name": "Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1173,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-10-10T22:44:00Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID1173",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26739882",
+              "id": 810,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 297,
+                "name": "ARS-853"
+              },
+              {
+                "id": 145,
+                "name": "Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": null,
+              "id": 2627,
+              "name": "Solid Tumor"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 7572,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID7572",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "177193",
+              "id": 3008,
+              "sourceType": "ASCO"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 693,
+                "name": "Adagrasib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 2212,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-07-21T16:30:56Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID2212",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22392911",
+              "id": 1406,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 343,
+                "name": "Dactolisib"
+              },
+              {
+                "id": 63,
+                "name": "Selumetinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9538",
+              "id": 41,
+              "name": "Multiple Myeloma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 2261,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-07-21T11:23:23Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID2261",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "11050000",
+              "id": 1420,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 328,
+                "name": "Melphalan"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9538",
+              "id": 41,
+              "name": "Multiple Myeloma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 2263,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-07-21T11:24:59Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID2263",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "16497971",
+              "id": 1422,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 328,
+                "name": "Melphalan"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 3973,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-09-24T22:25:57Z"
+            },
+            "molecularProfile": {
+              "id": 78,
+              "name": "KRAS G12C"
+            },
+            "name": "EID3973",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "26161928",
+              "id": 1935,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 27,
+                "name": "Regorafenib Anhydrous"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          }
+        ],
+        "totalCount": 18
+      }
+    }
+  },
+  "retrieved_at": "2026-08-12T09:59:12.154795+00:00",
+  "source_url": "https://civicdb.org/"
+}

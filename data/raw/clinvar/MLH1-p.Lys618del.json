@@ -1,0 +1,203 @@
+{
+  "query": "MLH1[gene] AND c.1852_1854del[variant name]",
+  "response": {
+    "header": {
+      "type": "esummary",
+      "version": "0.3"
+    },
+    "result": {
+      "17080": {
+        "accession": "VCV000017080",
+        "accession_version": "VCV000017080.68",
+        "chr_sort": "03",
+        "clinical_impact_classification": {
+          "description": "",
+          "fda_recognized_database": "",
+          "last_evaluated": "1/01/01 00:00",
+          "review_status": "",
+          "trait_set": []
+        },
+        "fda_recognized_database": "",
+        "gene_sort": "MLH1",
+        "genes": [
+          {
+            "geneid": "4292",
+            "source": "submitted",
+            "strand": "+",
+            "symbol": "MLH1"
+          }
+        ],
+        "germline_classification": {
+          "description": "Pathogenic",
+          "fda_recognized_database": "",
+          "last_evaluated": "2013/09/05 00:00",
+          "review_status": "reviewed by expert panel",
+          "trait_set": [
+            {
+              "trait_name": "Lynch syndrome",
+              "trait_xrefs": [
+                {
+                  "db_id": "144",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C4552100",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0005835",
+                  "db_source": "MONDO"
+                }
+              ]
+            }
+          ]
+        },
+        "location_sort": "00000000000037047632",
+        "molecular_consequence_list": [
+          "inframe_indel",
+          "inframe_deletion",
+          "intron variant"
+        ],
+        "obj_type": "Microsatellite",
+        "oncogenicity_classification": {
+          "description": "",
+          "fda_recognized_database": "",
+          "last_evaluated": "1/01/01 00:00",
+          "review_status": "",
+          "trait_set": []
+        },
+        "protein_change": "K618del, K377del, K520del, K277del, K585del, K260del",
+        "record_status": "",
+        "supporting_submissions": {
+          "rcv": [
+            "RCV000018609",
+            "RCV000075383",
+            "RCV000129328",
+            "RCV000202279",
+            "RCV000192399",
+            "RCV000524254",
+            "RCV001249999",
+            "RCV001353903",
+            "RCV001093699",
+            "RCV002490387",
+            "RCV005357143",
+            "RCV006449940"
+          ],
+          "scv": [
+            "SCV000186087",
+            "SCV000248052",
+            "SCV000257069",
+            "SCV000038892",
+            "SCV001423900",
+            "SCV001967790",
+            "SCV004843223",
+            "SCV000184091",
+            "SCV000038910",
+            "SCV001250883",
+            "SCV005916940",
+            "SCV000684776",
+            "SCV000488529",
+            "SCV006303638",
+            "SCV002017491",
+            "SCV000255268",
+            "SCV000885706",
+            "SCV000917668",
+            "SCV001450056",
+            "SCV000592424",
+            "SCV001744362",
+            "SCV000211081",
+            "SCV002780667",
+            "SCV004193023",
+            "SCV001469800",
+            "SCV005200620",
+            "SCV002102409",
+            "SCV002573624",
+            "SCV007449107",
+            "SCV000106376",
+            "SCV002550855"
+          ]
+        },
+        "title": "NM_000249.4(MLH1):c.1846AAG[2] (p.Lys618del)",
+        "uid": "17080",
+        "variation_set": [
+          {
+            "aliases": [
+              "MLH1, 3-BP DEL, LYS618",
+              "K616del"
+            ],
+            "allele_freq_set": [],
+            "canonical_spdi": "NC_000003.12:37047631:GAAGAAGAAG:GAAGAAG",
+            "cdna_change": "c.1846AAG[2]",
+            "common_name": "",
+            "measure_id": "32119",
+            "variant_type": "Microsatellite",
+            "variation_loc": [
+              {
+                "alt": "",
+                "annotation_release": "",
+                "assembly_acc_ver": "GCF_000001405.38",
+                "assembly_name": "GRCh38",
+                "band": "3p22.2",
+                "chr": "3",
+                "display_start": "37047632",
+                "display_stop": "37047634",
+                "inner_start": "",
+                "inner_stop": "",
+                "outer_start": "",
+                "outer_stop": "",
+                "ref": "",
+                "start": "37047632",
+                "status": "current",
+                "stop": "37047634"
+              },
+              {
+                "alt": "",
+                "annotation_release": "",
+                "assembly_acc_ver": "GCF_000001405.25",
+                "assembly_name": "GRCh37",
+                "band": "3p22.2",
+                "chr": "3",
+                "display_start": "37089130",
+                "display_stop": "37089132",
+                "inner_start": "",
+                "inner_stop": "",
+                "outer_start": "",
+                "outer_stop": "",
+                "ref": "",
+                "start": "37089130",
+                "status": "previous",
+                "stop": "37089132"
+              }
+            ],
+            "variation_name": "NM_000249.4(MLH1):c.1846AAG[2] (p.Lys618del)",
+            "variation_xrefs": [
+              {
+                "db_id": "CA007087",
+                "db_source": "ClinGen"
+              },
+              {
+                "db_id": "120436.0003",
+                "db_source": "OMIM"
+              },
+              {
+                "db_id": "120436.0018",
+                "db_source": "OMIM"
+              },
+              {
+                "db_id": "63751247",
+                "db_source": "dbSNP"
+              }
+            ]
+          }
+        ],
+        "variation_set_id": "",
+        "variation_set_name": ""
+      },
+      "uids": [
+        "17080"
+      ]
+    }
+  },
+  "retrieved_at": "2026-08-12T09:59:07.245616+00:00",
+  "source_url": "https://www.ncbi.nlm.nih.gov/clinvar/variation/17080/"
+}

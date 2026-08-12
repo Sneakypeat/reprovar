@@ -1,0 +1,3870 @@
+{
+  "query": "V600E",
+  "response": {
+    "data": {
+      "evidenceItems": {
+        "nodes": [
+          {
+            "disease": {
+              "doid": "8923",
+              "id": 206,
+              "name": "Skin Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 1409,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1409",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "21639808",
+              "id": 954,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 9851,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID9851",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "31566309",
+              "id": 3025,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 483,
+                "name": "Encorafenib"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0080830",
+              "id": 3048,
+              "name": "Childhood Low-grade Glioma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 12016,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-09-06T21:02:29Z"
+            },
+            "molecularProfile": {
+              "id": 4453,
+              "name": "BRAF V600E OR KIAA1549::BRAF Fusion"
+            },
+            "name": "EID12016",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "37978284",
+              "id": 4991,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 1071,
+                "name": "Tovorafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 3017,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-09-05T18:46:09Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID3017",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27283860",
+              "id": 1296,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": null,
+              "id": 2627,
+              "name": "Solid Tumor"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 12161,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-01-24T17:18:46Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID12161",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "37059834",
+              "id": 5118,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0080829",
+              "id": 3047,
+              "name": "Low Grade Glioma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 12162,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-01-13T16:54:38Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID12162",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "36375115",
+              "id": 5119,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 19,
+                "name": "Trametinib"
+              },
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "DIAGNOSTIC",
+            "id": 80,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-10-24T15:29:05Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID80",
+            "significance": "POSITIVE",
+            "source": {
+              "citationId": "24570209",
+              "id": 94,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 95,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-02-18T21:13:57Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID95",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24583796",
+              "id": 105,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "PROGNOSTIC",
+            "id": 102,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-10-24T15:28:30Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID102",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "24354346",
+              "id": 109,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "PROGNOSTIC",
+            "id": 103,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-07-17T22:57:55Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID103",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "24594804",
+              "id": 110,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "PROGNOSTIC",
+            "id": 656,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-10-24T15:41:15Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID656",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "25024077",
+              "id": 413,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 1398,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1398",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24508103",
+              "id": 947,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 6178,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID6178",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "28891408",
+              "id": 2475,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 6938,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-11-08T17:53:46Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID6938",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25265492",
+              "id": 2671,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 7612,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2022-02-11T23:46:25Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID7612",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "31566309",
+              "id": 3025,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 483,
+                "name": "Encorafenib"
+              },
+              {
+                "id": 485,
+                "name": "Binimetinib"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 816,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-01-29T03:35:46Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID816",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "25989278",
+              "id": 548,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "285",
+              "id": 665,
+              "name": "Hairy Cell Leukemia"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "DIAGNOSTIC",
+            "id": 1127,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1127",
+            "significance": "POSITIVE",
+            "source": {
+              "citationId": "21663470",
+              "id": 780,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 1405,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-06-27T23:41:26Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1405",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26460303",
+              "id": 953,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 1421,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-11-08T16:06:02Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1421",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25265494",
+              "id": 963,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 342,
+                "name": "Cobimetinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 1749,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-08-12T05:48:37Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1749",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "20818844",
+              "id": 352,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 1902,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1902",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27729313",
+              "id": 1336,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 101,
+                "name": "Irinotecan"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 2135,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-10-29T23:56:12Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID2135",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22663011",
+              "id": 1210,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PROGNOSTIC",
+            "id": 2137,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2019-02-09T23:46:48Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID2137",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "18682506",
+              "id": 1494,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 3739,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-11-20T23:11:26Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID3739",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "25666295",
+              "id": 1920,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 538,
+                "name": "FOLFOX-4 Regimen"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 3750,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-10-29T23:45:43Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID3750",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23569304",
+              "id": 60,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "8923",
+              "id": 206,
+              "name": "Skin Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 3758,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-11-08T18:02:40Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID3758",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25399551",
+              "id": 353,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 5958,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID5958",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "29320312",
+              "id": 2414,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 6123,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID6123",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "29431699",
+              "id": 2468,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 6940,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-11-08T17:18:57Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID6940",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23020132",
+              "id": 103,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0080522",
+              "id": 3040,
+              "name": "Anaplastic Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 6975,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-12-11T07:18:39Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID6975",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "29072975",
+              "id": 2686,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PROGNOSTIC",
+            "id": 7156,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-05-15T03:44:03Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID7156",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "20008640",
+              "id": 2783,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PROGNOSTIC",
+            "id": 7157,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2019-02-28T18:42:15Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID7157",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "21502544",
+              "id": 1931,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0080830",
+              "id": 3048,
+              "name": "Childhood Low-grade Glioma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PROGNOSTIC",
+            "id": 7191,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2022-04-08T03:33:56Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID7191",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "29948154",
+              "id": 2816,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "7146",
+              "id": 1762,
+              "name": "Langerhans Cell Sarcoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 7583,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2022-12-09T17:58:10Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID7583",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "31513482",
+              "id": 3012,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 9018,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-01-26T23:27:09Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID9018",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27460442",
+              "id": 1052,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PROGNOSTIC",
+            "id": 9170,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-03-23T18:31:16Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID9170",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "16174717",
+              "id": 3893,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1781",
+              "id": 16,
+              "name": "Thyroid Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "DIAGNOSTIC",
+            "id": 79,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID79",
+            "significance": "POSITIVE",
+            "source": {
+              "citationId": "21594703",
+              "id": 93,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 93,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-07-10T18:48:31Z"
+            },
+            "molecularProfile": {
+              "id": 5666,
+              "name": "BRAF V600E OR BRAF V600K"
+            },
+            "name": "EID93",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23020132",
+              "id": 103,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 104,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID104",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "24388723",
+              "id": 111,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 105,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-10-24T15:31:06Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID105",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "21594703",
+              "id": 93,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 106,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-10-24T15:30:00Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID106",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "24396464",
+              "id": 112,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 107,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-10-24T15:30:48Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID107",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "21594703",
+              "id": 93,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 126,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-11-13T22:27:02Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID126",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "20619739",
+              "id": 76,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9538",
+              "id": 41,
+              "name": "Multiple Myeloma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 463,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-04-08T22:38:19Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID463",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "23612012",
+              "id": 278,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1406,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-12-17T19:06:25Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1406",
+            "significance": "REDUCED_SENSITIVITY",
+            "source": {
+              "citationId": "22608338",
+              "id": 345,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1410,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-07-08T17:08:03Z"
+            },
+            "molecularProfile": {
+              "id": 5666,
+              "name": "BRAF V600E OR BRAF V600K"
+            },
+            "name": "EID1410",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22356324",
+              "id": 354,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1413,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-06-28T20:20:59Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1413",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25589621",
+              "id": 957,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 1552,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-07-19T12:00:47Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1552",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "27404270",
+              "id": 1027,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1591,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-08-16T07:40:06Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1591",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27460442",
+              "id": 1052,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2115,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-05-12T03:37:33Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID2115",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19001320",
+              "id": 100,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 2116,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2023-12-03T08:11:19Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID2116",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "19603024",
+              "id": 1479,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2117,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-07-19T23:02:10Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID2117",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19603024",
+              "id": 1479,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 237,
+                "name": "Oxaliplatin"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2118,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-07-19T22:53:19Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID2118",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19603024",
+              "id": 1479,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 101,
+                "name": "Irinotecan"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2121,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-10-29T23:48:39Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID2121",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "19571295",
+              "id": 1481,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 33,
+                "name": "Bevacizumab"
+              },
+              {
+                "id": 32,
+                "name": "Capecitabine"
+              },
+              {
+                "id": 237,
+                "name": "Oxaliplatin"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 2503,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-10-24T15:48:39Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID2503",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "21882184",
+              "id": 1495,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 3755,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-10-29T23:51:37Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID3755",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26557775",
+              "id": 1955,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 3757,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-10-29T23:46:37Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID3757",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25524477",
+              "id": 1957,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "2394",
+              "id": 20,
+              "name": "Ovarian Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 5959,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID5959",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "29320312",
+              "id": 2414,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0080522",
+              "id": 3040,
+              "name": "Anaplastic Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 6045,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-12-11T07:19:07Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID6045",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26287849",
+              "id": 1040,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 6124,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-07-29T21:07:57Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID6124",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "29431699",
+              "id": 2468,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 19,
+                "name": "Trametinib"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 7260,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-03-04T21:08:18Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID7260",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "168986",
+              "id": 2858,
+              "sourceType": "ASCO"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 485,
+                "name": "Binimetinib"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 483,
+                "name": "Encorafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "4607",
+              "id": 1065,
+              "name": "Biliary Tract Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 7264,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-11-19T20:28:57Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID7264",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "169315",
+              "id": 2860,
+              "sourceType": "ASCO"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 11670,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 4707,
+              "name": "BRAF V600E OR BRAF K601E"
+            },
+            "name": "EID11670",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "36409971",
+              "id": 4832,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 342,
+                "name": "Cobimetinib"
+              },
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "162",
+              "id": 216,
+              "name": "Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 11672,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-01-22T16:58:55Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID11672",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "32758030",
+              "id": 4834,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "162",
+              "id": 216,
+              "name": "Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 11681,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 4715,
+              "name": "BRAF V600E OR NRAS Mutation OR HRAS Mutation OR KRAS Mutation OR NF1 Mutation"
+            },
+            "name": "EID11681",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "35363510",
+              "id": 4841,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 63,
+                "name": "Selumetinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "162",
+              "id": 216,
+              "name": "Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 11696,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-02-01T17:34:40Z"
+            },
+            "molecularProfile": {
+              "id": 4748,
+              "name": "BRAF V600E OR NRAS Mutation OR HRAS Mutation OR KRAS Mutation OR NF1 Inactivating Mutation"
+            },
+            "name": "EID11696",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "35363510",
+              "id": 4841,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 63,
+                "name": "Selumetinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0080829",
+              "id": 3047,
+              "name": "Low Grade Glioma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 11770,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-03-25T21:25:38Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID11770",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "32523649",
+              "id": 4902,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PROGNOSTIC",
+            "id": 82,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2019-03-22T01:52:45Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID82",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "24586605",
+              "id": 96,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 994,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-09-24T23:54:10Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID994",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "24947927",
+              "id": 688,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 243,
+                "name": "MEK Inhibitor RO4987655"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "285",
+              "id": 665,
+              "name": "Hairy Cell Leukemia"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1579,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1579",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26352686",
+              "id": 1043,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0050861",
+              "id": 57,
+              "name": "Colorectal Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PROGNOSTIC",
+            "id": 1940,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-07-23T03:15:01Z"
+            },
+            "molecularProfile": {
+              "id": 5739,
+              "name": "BRAF V600E AND MSI High"
+            },
+            "name": "EID1940",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "27302369",
+              "id": 1367,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 6262,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2023-01-12T04:52:45Z"
+            },
+            "molecularProfile": {
+              "id": 4174,
+              "name": "BRAF Amplification AND ( BRAF V600E OR BRAF V600K )"
+            },
+            "name": "EID6262",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "24265155",
+              "id": 1941,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 6264,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-07-09T22:11:04Z"
+            },
+            "molecularProfile": {
+              "id": 5837,
+              "name": "BRAF V600E AND KRAS Mutation"
+            },
+            "name": "EID6264",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "24265155",
+              "id": 1941,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3969",
+              "id": 156,
+              "name": "Papillary Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 1414,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-06-28T19:21:56Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1414",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24987354",
+              "id": 958,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0050626",
+              "id": 53,
+              "name": "Gastrointestinal Neuroendocrine Tumor"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1430,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-07-01T16:10:32Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1430",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27048246",
+              "id": 969,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              },
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9538",
+              "id": 41,
+              "name": "Multiple Myeloma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1698,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1698",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24997557",
+              "id": 1147,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "6812",
+              "id": 1673,
+              "name": "Childhood Pilocytic Astrocytoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 3777,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-10-30T07:27:25Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID3777",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25524464",
+              "id": 1974,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0050933",
+              "id": 87,
+              "name": "Ovarian Serous Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 3787,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-10-29T23:47:51Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID3787",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26490654",
+              "id": 1984,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 3827,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-12-02T00:04:57Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID3827",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "20619739",
+              "id": 76,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "4947",
+              "id": 29,
+              "name": "Cholangiocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 5902,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-05-11T03:22:41Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID5902",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "28480077",
+              "id": 2381,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "4928",
+              "id": 1165,
+              "name": "Intrahepatic Cholangiocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 5903,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-05-12T17:53:12Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID5903",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "28078132",
+              "id": 2380,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "4928",
+              "id": 1165,
+              "name": "Intrahepatic Cholangiocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 5904,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-05-13T16:22:59Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID5904",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25435907",
+              "id": 2379,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              },
+              {
+                "id": 19,
+                "name": "Trametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "4947",
+              "id": 29,
+              "name": "Cholangiocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 5906,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-05-14T19:05:37Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID5906",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26687137",
+              "id": 2382,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              },
+              {
+                "id": 101,
+                "name": "Irinotecan"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "0080522",
+              "id": 3040,
+              "name": "Anaplastic Thyroid Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 5961,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-12-10T19:35:35Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID5961",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "29320312",
+              "id": 2414,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 247,
+                "name": "Pertuzumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "2876",
+              "id": 124,
+              "name": "Laryngeal Squamous Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 5962,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-02-16T11:26:42Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID5962",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "29320312",
+              "id": 2414,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 757,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-02-18T21:12:55Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID757",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "25370471",
+              "id": 500,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 141,
+                "name": "Pictilisib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1589,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1589",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27325282",
+              "id": 1050,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9538",
+              "id": 41,
+              "name": "Multiple Myeloma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1699,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1699",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24997557",
+              "id": 1147,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1906,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-06-28T05:43:40Z"
+            },
+            "molecularProfile": {
+              "id": 5491,
+              "name": "BRAF V600E AND GNAS R201C"
+            },
+            "name": "EID1906",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "27729313",
+              "id": 1336,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 101,
+                "name": "Irinotecan"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PROGNOSTIC",
+            "id": 2362,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-07-09T22:08:24Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID2362",
+            "significance": "POOR_OUTCOME",
+            "source": {
+              "citationId": "19903786",
+              "id": 1475,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 5960,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-02-16T11:12:26Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID5960",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "29320312",
+              "id": 2414,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 1,
+            "evidenceType": "PREDICTIVE",
+            "id": 73,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-04-14T05:00:56Z"
+            },
+            "molecularProfile": {
+              "id": 4170,
+              "name": "BRAF V600E AND BRAF V600M"
+            },
+            "name": "EID73",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23031422",
+              "id": 88,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 22,
+                "name": "Dabrafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 1,
+            "evidenceType": "PREDICTIVE",
+            "id": 1905,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-06-28T05:43:54Z"
+            },
+            "molecularProfile": {
+              "id": 5492,
+              "name": "BRAF V600E AND ARAF S490T"
+            },
+            "name": "EID1905",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "27729313",
+              "id": 1336,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 101,
+                "name": "Irinotecan"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 6952,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-12-08T20:22:16Z"
+            },
+            "molecularProfile": {
+              "id": 4241,
+              "name": "BRAF V600E AND EZH2 Y646F"
+            },
+            "name": "EID6952",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27135738",
+              "id": 2307,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 541,
+                "name": "JQEZ5"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 86,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-02-18T18:20:58Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID86",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "24576830",
+              "id": 98,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 19,
+                "name": "Trametinib"
+              },
+              {
+                "id": 29,
+                "name": "Mirdametinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 89,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-09-16T01:20:46Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID89",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "19001320",
+              "id": 100,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 6,
+                "name": "Sorafenib"
+              },
+              {
+                "id": 28,
+                "name": "Panitumumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 90,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-02-25T23:34:09Z"
+            },
+            "molecularProfile": {
+              "id": 5379,
+              "name": "BRAF V600E AND NF1 Loss"
+            },
+            "name": "EID90",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "24576830",
+              "id": 98,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 96,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2019-08-22T21:32:55Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID96",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23845441",
+              "id": 106,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 30,
+                "name": "PLX4720"
+              },
+              {
+                "id": 477,
+                "name": "Pictilisib Bismesylate"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 97,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-06-11T17:06:50Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID97",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23812671",
+              "id": 107,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 30,
+                "name": "PLX4720"
+              },
+              {
+                "id": 31,
+                "name": "Nutlin-3"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 98,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-07-09T21:26:14Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID98",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22180495",
+              "id": 108,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 32,
+                "name": "Capecitabine"
+              },
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 33,
+                "name": "Bevacizumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "162",
+              "id": 216,
+              "name": "Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1141,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-06-29T21:04:10Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1141",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23934108",
+              "id": 790,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 342,
+                "name": "Cobimetinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1408,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-06-27T23:32:26Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1408",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22281684",
+              "id": 344,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1428,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1428",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23549875",
+              "id": 967,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 343,
+                "name": "Dactolisib"
+              },
+              {
+                "id": 344,
+                "name": "GDC-0879"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 4783,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-12-29T21:53:42Z"
+            },
+            "molecularProfile": {
+              "id": 5702,
+              "name": "BRAF V600E AND PIK3R2 N561D"
+            },
+            "name": "EID4783",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "24265155",
+              "id": 1941,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 8506,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID8506",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22180495",
+              "id": 108,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 101,
+                "name": "Irinotecan"
+              },
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              },
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 8507,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID8507",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22180495",
+              "id": 108,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              },
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 99,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-06-18T21:56:48Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID99",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22180495",
+              "id": 108,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 1005,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2019-06-12T12:27:36Z"
+            },
+            "molecularProfile": {
+              "id": 12,
+              "name": "BRAF V600E"
+            },
+            "name": "EID1005",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26678033",
+              "id": 694,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 343,
+                "name": "Dactolisib"
+              },
+              {
+                "id": 63,
+                "name": "Selumetinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 3957,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-12-16T19:12:22Z"
+            },
+            "molecularProfile": {
+              "id": 5806,
+              "name": "BRAF V600E AND KRAS G12D"
+            },
+            "name": "EID3957",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "24265155",
+              "id": 1941,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "1909",
+              "id": 7,
+              "name": "Melanoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 6275,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-12-16T04:14:12Z"
+            },
+            "molecularProfile": {
+              "id": 5804,
+              "name": "BRAF V600E AND PIK3CA Overexpression"
+            },
+            "name": "EID6275",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "24265155",
+              "id": 1941,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 4,
+                "name": "Vemurafenib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "9256",
+              "id": 11,
+              "name": "Colorectal Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "E",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 92,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2023-01-12T04:51:38Z"
+            },
+            "molecularProfile": {
+              "id": 4173,
+              "name": "BRAF V600E AND BRAF Amplification"
+            },
+            "name": "EID92",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "21098728",
+              "id": 102,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 63,
+                "name": "Selumetinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          }
+        ],
+        "totalCount": 111
+      }
+    }
+  },
+  "retrieved_at": "2026-08-12T09:59:10.199015+00:00",
+  "source_url": "https://civicdb.org/"
+}

@@ -1,0 +1,605 @@
+{
+  "query": "MUTYH[gene] AND c.1187G>A[variant name]",
+  "response": {
+    "header": {
+      "type": "esummary",
+      "version": "0.3"
+    },
+    "result": {
+      "5294": {
+        "accession": "VCV000005294",
+        "accession_version": "VCV000005294.153",
+        "chr_sort": "01",
+        "clinical_impact_classification": {
+          "description": "",
+          "fda_recognized_database": "",
+          "last_evaluated": "1/01/01 00:00",
+          "review_status": "",
+          "trait_set": []
+        },
+        "fda_recognized_database": "",
+        "gene_sort": "MUTYH",
+        "genes": [
+          {
+            "geneid": "4595",
+            "source": "submitted",
+            "strand": "-",
+            "symbol": "MUTYH"
+          }
+        ],
+        "germline_classification": {
+          "description": "Pathogenic/Likely pathogenic",
+          "fda_recognized_database": "",
+          "last_evaluated": "2026/06/01 00:00",
+          "review_status": "criteria provided, multiple submitters, no conflicts",
+          "trait_set": [
+            {
+              "trait_name": "Classic or attenuated familial adenomatous polyposis",
+              "trait_xrefs": [
+                {
+                  "db_id": "CN372698",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0021057",
+                  "db_source": "MONDO"
+                }
+              ]
+            },
+            {
+              "trait_name": "Pleomorphic xanthoastrocytoma BRAF mutant",
+              "trait_xrefs": [
+                {
+                  "db_id": "CN377565",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0956983",
+                  "db_source": "MONDO"
+                }
+              ]
+            },
+            {
+              "trait_name": "Inherited polyposis and early onset colorectal cancer - germline testing",
+              "trait_xrefs": []
+            },
+            {
+              "trait_name": "Gastric cancer",
+              "trait_xrefs": [
+                {
+                  "db_id": "C0024623",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "D013274",
+                  "db_source": "MeSH"
+                },
+                {
+                  "db_id": "MONDO:0001056",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "613659",
+                  "db_source": "OMIM"
+                },
+                {
+                  "db_id": "HP:0012126",
+                  "db_source": "Human Phenotype Ontology"
+                }
+              ]
+            },
+            {
+              "trait_name": "Familial adenomatous polyposis 2",
+              "trait_xrefs": [
+                {
+                  "db_id": "220460",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "247798",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C3272841",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0012041",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "608456",
+                  "db_source": "OMIM"
+                }
+              ]
+            },
+            {
+              "trait_name": "Diffuse midline glioma, H3 K27-altered",
+              "trait_xrefs": [
+                {
+                  "db_id": "C5669877",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:1060171",
+                  "db_source": "MONDO"
+                }
+              ]
+            },
+            {
+              "trait_name": "Infant-type hemispheric glioma",
+              "trait_xrefs": [
+                {
+                  "db_id": "695136",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C5669919",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0858940",
+                  "db_source": "MONDO"
+                }
+              ]
+            },
+            {
+              "trait_name": "Ependymoma",
+              "trait_xrefs": [
+                {
+                  "db_id": "251636",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C0014474",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "D004806",
+                  "db_source": "MeSH"
+                },
+                {
+                  "db_id": "MONDO:0016698",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "HP:0002888",
+                  "db_source": "Human Phenotype Ontology"
+                }
+              ]
+            },
+            {
+              "trait_name": "Hereditary cancer-predisposing syndrome",
+              "trait_xrefs": [
+                {
+                  "db_id": "140162",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C0027672",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "D009386",
+                  "db_source": "MeSH"
+                },
+                {
+                  "db_id": "MONDO:0015356",
+                  "db_source": "MONDO"
+                }
+              ]
+            },
+            {
+              "trait_name": "Pilomatrixoma",
+              "trait_xrefs": [
+                {
+                  "db_id": "91414",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C0206711",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "D018296",
+                  "db_source": "MeSH"
+                },
+                {
+                  "db_id": "MONDO:0007564",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "132600",
+                  "db_source": "OMIM"
+                },
+                {
+                  "db_id": "HP:0030434",
+                  "db_source": "Human Phenotype Ontology"
+                }
+              ]
+            },
+            {
+              "trait_name": "Neoplasm of stomach",
+              "trait_xrefs": [
+                {
+                  "db_id": "C0038356",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0021085",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "HP:0006753",
+                  "db_source": "Human Phenotype Ontology"
+                }
+              ]
+            },
+            {
+              "trait_name": "Familial adenomatous polyposis 2",
+              "trait_xrefs": [
+                {
+                  "db_id": "220460",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "247798",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C3272841",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0012041",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "608456",
+                  "db_source": "OMIM"
+                }
+              ]
+            },
+            {
+              "trait_name": "not provided",
+              "trait_xrefs": [
+                {
+                  "db_id": "C3661900",
+                  "db_source": "MedGen"
+                }
+              ]
+            },
+            {
+              "trait_name": "Pilocytic astrocytoma",
+              "trait_xrefs": [
+                {
+                  "db_id": "251612",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C0334583",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0016691",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "HP:0033680",
+                  "db_source": "Human Phenotype Ontology"
+                }
+              ]
+            },
+            {
+              "trait_name": "Familial colorectal cancer",
+              "trait_xrefs": [
+                {
+                  "db_id": "CN280943",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0023113",
+                  "db_source": "MONDO"
+                }
+              ]
+            },
+            {
+              "trait_name": "Familial adenomatous polyposis 2",
+              "trait_xrefs": [
+                {
+                  "db_id": "220460",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "247798",
+                  "db_source": "Orphanet"
+                },
+                {
+                  "db_id": "C3272841",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0012041",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "608456",
+                  "db_source": "OMIM"
+                }
+              ]
+            },
+            {
+              "trait_name": "Colorectal adenomatous polyposis, autosomal recessive, with pilomatricomas",
+              "trait_xrefs": [
+                {
+                  "db_id": "CN068899",
+                  "db_source": "MedGen"
+                }
+              ]
+            },
+            {
+              "trait_name": "Ovarian carcinoma",
+              "trait_xrefs": [
+                {
+                  "db_id": "C4721610",
+                  "db_source": "MedGen"
+                },
+                {
+                  "db_id": "MONDO:0005140",
+                  "db_source": "MONDO"
+                },
+                {
+                  "db_id": "HP:0025318",
+                  "db_source": "Human Phenotype Ontology"
+                }
+              ]
+            }
+          ]
+        },
+        "location_sort": "00000000000045331556",
+        "molecular_consequence_list": [
+          "missense variant",
+          "non-coding transcript variant"
+        ],
+        "obj_type": "single nucleotide variant",
+        "oncogenicity_classification": {
+          "description": "",
+          "fda_recognized_database": "",
+          "last_evaluated": "1/01/01 00:00",
+          "review_status": "",
+          "trait_set": []
+        },
+        "protein_change": "G382D, G396D, G276D, G393D, G369D, G368D, G383D, G253D, G379D",
+        "record_status": "",
+        "supporting_submissions": {
+          "rcv": [
+            "RCV000005614",
+            "RCV000005615",
+            "RCV000079501",
+            "RCV000121598",
+            "RCV000115748",
+            "RCV000144637",
+            "RCV000477907",
+            "RCV000501239",
+            "RCV000493920",
+            "RCV000515320",
+            "RCV001262769",
+            "RCV001580144",
+            "RCV001574076",
+            "RCV002051775",
+            "RCV004528084",
+            "RCV004785246",
+            "RCV004808548",
+            "RCV005016243",
+            "RCV006700149",
+            "RCV006451760",
+            "RCV006451759",
+            "RCV006451758",
+            "RCV006451889",
+            "RCV006683846"
+          ],
+          "scv": [
+            "SCV000085795",
+            "SCV000189964",
+            "SCV000595873",
+            "SCV001440759",
+            "SCV001934278",
+            "SCV000536689",
+            "SCV000599972",
+            "SCV000537630",
+            "SCV000043370",
+            "SCV000678192",
+            "SCV000184573",
+            "SCV002017639",
+            "SCV000691947",
+            "SCV000536693",
+            "SCV000611285",
+            "SCV000788060",
+            "SCV000025796",
+            "SCV000025797",
+            "SCV000993433",
+            "SCV000821744",
+            "SCV001423820",
+            "SCV001449666",
+            "SCV001499746",
+            "SCV000592711",
+            "SCV000697670",
+            "SCV001744816",
+            "SCV001977647",
+            "SCV002037440",
+            "SCV002532208",
+            "SCV000837751",
+            "SCV000245638",
+            "SCV005381829",
+            "SCV004836151",
+            "SCV005431494",
+            "SCV005653019",
+            "SCV000840099",
+            "SCV001716323",
+            "SCV002318970",
+            "SCV005917343",
+            "SCV006276311",
+            "SCV002525942",
+            "SCV007294382",
+            "SCV007328894",
+            "SCV007328816",
+            "SCV007328815",
+            "SCV007328900",
+            "SCV007449133",
+            "SCV000166443",
+            "SCV007579283",
+            "SCV001248078",
+            "SCV000266099",
+            "SCV000267061",
+            "SCV000781800",
+            "SCV000679736",
+            "SCV001760033",
+            "SCV001797301",
+            "SCV001805860",
+            "SCV000149657",
+            "SCV001977685",
+            "SCV001979292",
+            "SCV001979836",
+            "SCV001980277",
+            "SCV002073195",
+            "SCV002501474",
+            "SCV002522174",
+            "SCV002538610",
+            "SCV000057867",
+            "SCV002011071",
+            "SCV004031104",
+            "SCV004041729",
+            "SCV002512303",
+            "SCV004806971",
+            "SCV001482742",
+            "SCV005199293",
+            "SCV000806339",
+            "SCV005382145",
+            "SCV005419265",
+            "SCV000601628",
+            "SCV000111383",
+            "SCV001447077",
+            "SCV002580176",
+            "SCV003927260",
+            "SCV006079841",
+            "SCV006550689",
+            "SCV007107095",
+            "SCV002547276",
+            "SCV007299139",
+            "SCV000604306",
+            "SCV007539529",
+            "SCV007580285",
+            "SCV007602336",
+            "SCV004175688"
+          ]
+        },
+        "title": "NM_001048174.2(MUTYH):c.1103G>A (p.Gly368Asp)",
+        "uid": "5294",
+        "variation_set": [
+          {
+            "aliases": [
+              "p.G382D:GGT>GAT"
+            ],
+            "allele_freq_set": [
+              {
+                "minor_allele": "",
+                "source": "The Genome Aggregation Database (gnomAD)",
+                "value": "0.00335"
+              },
+              {
+                "minor_allele": "",
+                "source": "The Genome Aggregation Database (gnomAD), exomes",
+                "value": "0.00303"
+              },
+              {
+                "minor_allele": "",
+                "source": "The Genome Aggregation Database (gnomAD)",
+                "value": "0.00341"
+              },
+              {
+                "minor_allele": "",
+                "source": "Trans-Omics for Precision Medicine (TOPMed)",
+                "value": "0.00371"
+              },
+              {
+                "minor_allele": "",
+                "source": "Exome Aggregation Consortium (ExAC)",
+                "value": "0.00280"
+              },
+              {
+                "minor_allele": "T",
+                "source": "1000 Genomes Project",
+                "value": "0.00240"
+              }
+            ],
+            "canonical_spdi": "NC_000001.11:45331555:C:T",
+            "cdna_change": "c.1103G>A",
+            "common_name": "",
+            "measure_id": "20333",
+            "variant_type": "single nucleotide variant",
+            "variation_loc": [
+              {
+                "alt": "",
+                "annotation_release": "",
+                "assembly_acc_ver": "GCF_000001405.38",
+                "assembly_name": "GRCh38",
+                "band": "1p34.1",
+                "chr": "1",
+                "display_start": "45331556",
+                "display_stop": "45331556",
+                "inner_start": "",
+                "inner_stop": "",
+                "outer_start": "",
+                "outer_stop": "",
+                "ref": "",
+                "start": "45331556",
+                "status": "current",
+                "stop": "45331556"
+              },
+              {
+                "alt": "",
+                "annotation_release": "",
+                "assembly_acc_ver": "GCF_000001405.25",
+                "assembly_name": "GRCh37",
+                "band": "1p34.1",
+                "chr": "1",
+                "display_start": "45797228",
+                "display_stop": "45797228",
+                "inner_start": "",
+                "inner_stop": "",
+                "outer_start": "",
+                "outer_stop": "",
+                "ref": "",
+                "start": "45797228",
+                "status": "previous",
+                "stop": "45797228"
+              }
+            ],
+            "variation_name": "NM_001048174.2(MUTYH):c.1103G>A (p.Gly368Asp)",
+            "variation_xrefs": [
+              {
+                "db_id": "CA011561",
+                "db_source": "ClinGen"
+              },
+              {
+                "db_id": "604933.0002",
+                "db_source": "OMIM"
+              },
+              {
+                "db_id": "36053993",
+                "db_source": "dbSNP"
+              }
+            ]
+          }
+        ],
+        "variation_set_id": "",
+        "variation_set_name": ""
+      },
+      "uids": [
+        "5294"
+      ]
+    }
+  },
+  "retrieved_at": "2026-08-12T09:59:07.937989+00:00",
+  "source_url": "https://www.ncbi.nlm.nih.gov/clinvar/variation/5294/"
+}

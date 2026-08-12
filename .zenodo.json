@@ -1,0 +1,26 @@
+{
+  "title": "ReproVar: an auditable mini-benchmark for public cancer-variant evidence retrieval",
+  "upload_type": "software",
+  "version": "0.1.0",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Rehman, Syed Sabih Ur",
+      "orcid": "0009-0001-0235-1563",
+      "affiliation": "United Arab Emirates University",
+      "type": "ProjectMember"
+    }
+  ],
+  "keywords": [
+    "ClinVar",
+    "CIViC",
+    "variant interpretation",
+    "cancer genomics",
+    "precision oncology",
+    "reproducible research"
+  ],
+  "description": "ReproVar retrieves frozen public records for ten representative cancer variants, normalises provenance and review fields, and flags evidence that requires manual review. It is intended for research, training and portfolio demonstration, not clinical use."
+}
+

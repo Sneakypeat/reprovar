@@ -1,0 +1,1667 @@
+{
+  "query": "L858R",
+  "response": {
+    "data": {
+      "evidenceItems": {
+        "nodes": [
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 2994,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2994",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24868098",
+              "id": 1724,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 2997,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2997",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23982599",
+              "id": 1725,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 146,
+                "name": "Afatinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 11219,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2023-05-09T19:50:27Z"
+            },
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID11219",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "32955177",
+              "id": 4600,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 187,
+                "name": "Osimertinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 11239,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2023-05-15T18:15:19Z"
+            },
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID11239",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "28958502",
+              "id": 2909,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 44,
+                "name": "Dacomitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 11240,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2023-05-15T19:35:26Z"
+            },
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID11240",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "31591063",
+              "id": 4619,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              },
+              {
+                "id": 616,
+                "name": "Ramucirumab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 12015,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID12015",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "37937763",
+              "id": 4990,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 187,
+                "name": "Osimertinib"
+              },
+              {
+                "id": 199,
+                "name": "Chemotherapy"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 11241,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-02-13T22:09:51Z"
+            },
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID11241",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24263064",
+              "id": 4620,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 11599,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-06-04T04:58:53Z"
+            },
+            "molecularProfile": {
+              "id": 4660,
+              "name": "EGFR L858R AND EGFR T790M"
+            },
+            "name": "EID11599",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27959700",
+              "id": 1286,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 187,
+                "name": "Osimertinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 12131,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-10-28T17:37:08Z"
+            },
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID12131",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "38942080",
+              "id": 5093,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 23640,
+                "name": "Amivantamab"
+              },
+              {
+                "id": 3421,
+                "name": "Lazertinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "A",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 12156,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID12156",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "37879444",
+              "id": 5114,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 23640,
+                "name": "Amivantamab"
+              },
+              {
+                "id": 93,
+                "name": "Carboplatin"
+              },
+              {
+                "id": 156,
+                "name": "Pemetrexed"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 5,
+            "evidenceType": "PREDICTIVE",
+            "id": 4860,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-05-23T12:46:45Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4860",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26768165",
+              "id": 2158,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 44,
+                "name": "Dacomitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 275,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-02-18T18:39:43Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID275",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24457318",
+              "id": 182,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              },
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 879,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-02-13T03:54:15Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID879",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "23816960",
+              "id": 592,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 146,
+                "name": "Afatinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 982,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-02-13T05:52:41Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID982",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24439929",
+              "id": 679,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 146,
+                "name": "Afatinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 2621,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-10-21T23:33:22Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2621",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "20038723",
+              "id": 1501,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 3791,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-02-13T22:05:31Z"
+            },
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID3791",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22285168",
+              "id": 595,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 4759,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-02-13T22:05:42Z"
+            },
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID4759",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "21531810",
+              "id": 1503,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              },
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 229,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-02-24T00:12:24Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID229",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24736073",
+              "id": 162,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              },
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PROGNOSTIC",
+            "id": 347,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID347",
+            "significance": "BETTER_OUTCOME",
+            "source": {
+              "citationId": "24662454",
+              "id": 213,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 883,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID883",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22452895",
+              "id": 594,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 146,
+                "name": "Afatinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 885,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2016-02-18T18:40:33Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID885",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22285168",
+              "id": 595,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 1665,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-04-02T17:35:35Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID1665",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "18509184",
+              "id": 1127,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2634,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-06-15T18:57:23Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2634",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "22370314",
+              "id": 1513,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 4290,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-08-11T00:32:12Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4290",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27032107",
+              "id": 2067,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "B",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 6183,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-02-26T23:53:00Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID6183",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27022112",
+              "id": 2478,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 2156,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2024-02-13T22:05:49Z"
+            },
+            "molecularProfile": {
+              "id": 4432,
+              "name": "EGFR L858R OR EGFR Exon 19 Deletion"
+            },
+            "name": "EID2156",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24755888",
+              "id": 1514,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 4288,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2025-06-25T21:20:33Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4288",
+            "significance": "RESISTANCE",
+            "source": {
+              "citationId": "22235099",
+              "id": 507,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 12,
+                "name": "Crizotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 2632,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-09-08T20:54:29Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2632",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "15329413",
+              "id": 1509,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "C",
+            "evidenceRating": 1,
+            "evidenceType": "PREDICTIVE",
+            "id": 2624,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-09-08T20:52:25Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2624",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "15329413",
+              "id": 1509,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 4,
+            "evidenceType": "PREDICTIVE",
+            "id": 276,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID276",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "15118125",
+              "id": 181,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2626,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-08-10T20:20:17Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2626",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "18408761",
+              "id": 1525,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 45,
+                "name": "Lapatinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2627,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-07-02T02:20:00Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2627",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "18089823",
+              "id": 1515,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 44,
+                "name": "Dacomitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2628,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-11-23T21:07:21Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2628",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "16818618",
+              "id": 1526,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 52,
+                "name": "Neratinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 2631,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-08-10T20:15:10Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2631",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "18408761",
+              "id": 1525,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 465,
+                "name": "Canertinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "162",
+              "id": 216,
+              "name": "Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 3811,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2017-09-16T05:18:52Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID3811",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "19147750",
+              "id": 1528,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 14,
+                "name": "Gefitinib"
+              },
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              },
+              {
+                "id": 90,
+                "name": "Multikinase Inhibitor AEE788"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 4265,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-06-23T19:33:15Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4265",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "17877814",
+              "id": 1991,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 4286,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2021-02-03T23:40:53Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4286",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24353160",
+              "id": 1230,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "DOES_NOT_SUPPORT",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 4292,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-11-23T19:32:07Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4292",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27102076",
+              "id": 2086,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 16,
+                "name": "Cetuximab"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3070",
+              "id": 695,
+              "name": "High Grade Glioma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 4295,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-08-28T05:37:45Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4295",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "17177598",
+              "id": 1608,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "162",
+              "id": 216,
+              "name": "Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 3,
+            "evidenceType": "PREDICTIVE",
+            "id": 5922,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID5922",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "20942962",
+              "id": 2081,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 968,
+            "lastAcceptedRevisionEvent": null,
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID968",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "26515464",
+              "id": 669,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 146,
+                "name": "Afatinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 2629,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2018-04-18T20:58:35Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID2629",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "18408761",
+              "id": 1525,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 146,
+                "name": "Afatinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 4284,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-08-10T20:18:02Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4284",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "18408761",
+              "id": 1525,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "162",
+              "id": 216,
+              "name": "Cancer"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 4285,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-05-15T20:06:02Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4285",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "21132006",
+              "id": 1993,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              },
+              {
+                "id": 44,
+                "name": "Dacomitinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3910",
+              "id": 30,
+              "name": "Lung Adenocarcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 4291,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2026-05-15T21:34:42Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4291",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27102076",
+              "id": 2086,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "5409",
+              "id": 174,
+              "name": "Lung Small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 4293,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-07-16T00:13:52Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4293",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24893891",
+              "id": 665,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 2,
+            "evidenceType": "PREDICTIVE",
+            "id": 4294,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2020-07-15T23:47:19Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4294",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "24893891",
+              "id": 665,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 187,
+                "name": "Osimertinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          },
+          {
+            "disease": {
+              "doid": "3908",
+              "id": 8,
+              "name": "Lung Non-small Cell Carcinoma"
+            },
+            "evidenceDirection": "SUPPORTS",
+            "evidenceLevel": "D",
+            "evidenceRating": 1,
+            "evidenceType": "PREDICTIVE",
+            "id": 4287,
+            "lastAcceptedRevisionEvent": {
+              "createdAt": "2023-02-01T15:05:12Z"
+            },
+            "molecularProfile": {
+              "id": 33,
+              "name": "EGFR L858R"
+            },
+            "name": "EID4287",
+            "significance": "SENSITIVITYRESPONSE",
+            "source": {
+              "citationId": "27612423",
+              "id": 2070,
+              "sourceType": "PUBMED"
+            },
+            "status": "ACCEPTED",
+            "therapies": [
+              {
+                "id": 15,
+                "name": "Erlotinib"
+              }
+            ],
+            "variantOrigin": "SOMATIC"
+          }
+        ],
+        "totalCount": 48
+      }
+    }
+  },
+  "retrieved_at": "2026-08-12T09:59:11.284225+00:00",
+  "source_url": "https://civicdb.org/"
+}

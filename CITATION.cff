@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use ReproVar, please cite the archived software release."
+title: "ReproVar: an auditable mini-benchmark for public cancer-variant evidence retrieval"
+type: software
+version: 0.1.0
+date-released: 2026-08-12
+authors:
+  - family-names: "Rehman"
+    given-names: "Syed Sabih Ur"
+    orcid: "https://orcid.org/0009-0001-0235-1563"
+    affiliation: "United Arab Emirates University"
+repository-code: "https://github.com/Sneakypeat/reprovar"
+license: MIT
+keywords:
+  - ClinVar
+  - CIViC
+  - variant interpretation
+  - cancer genomics
+  - precision oncology
+

@@ -1,0 +1,10 @@
+51350166551765b40e6d021cde0ec01867d9c1c578a581391f064ebe7387dcfe  data/raw/civic/BRAF-V600E.json
+a7535c289dd3e5aaf9f50ee61ccaf7a7b2558668297a89086b9ea87c5e15d77a  data/raw/civic/EGFR-L858R.json
+c3433bfb6ada4fffa612c5b539413b0effb0347bd6b57305174b39c4db35f1fb  data/raw/civic/IDH1-R132H.json
+7e0f1df9d093360b243a5de57fc8e7e8064de7a1713fbe594cda95ba0ad996c0  data/raw/civic/KRAS-G12C.json
+b47a1c1ab0d38779a6ea9211b3e45a44a1d5bec9d474335b9b23ec80d14d34c9  data/raw/civic/PIK3CA-H1047R.json
+516ac5fa2c4a76b11d5f85287e9988f2ecaddd6dd80b937834ff3612cc7e50e3  data/raw/clinvar/BRCA1-c.68_69del.json
+c15f7c90da2abf0767068983f6222c6975adf4fcb4737f7f8045dacb4bdb72ba  data/raw/clinvar/BRCA2-c.5946del.json
+a1a759b237073e22134bf56f05127d8a67938da8df5bf84be67ab3859a64a4a9  data/raw/clinvar/MLH1-p.Lys618del.json
+af236f28432805a40286a0b6ee6b9caa62115ea5bcce5ffc615b7000298780c3  data/raw/clinvar/MUTYH-p.Gly396Asp.json
+f87548df8380a9c773b3fb699e534f7c3c9f1cdd58bca98f8dd66778945daba7  data/raw/clinvar/TP53-p.Arg273His.json

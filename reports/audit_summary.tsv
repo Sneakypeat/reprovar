@@ -1,0 +1,11 @@
+key	source	records_recovered	distinct_significances	manual_review_required	flags
+BRCA1-c.68_69del	ClinVar	1	1	no	
+BRCA2-c.5946del	ClinVar	1	1	no	
+TP53-p.Arg273His	ClinVar	1	1	no	
+MLH1-p.Lys618del	ClinVar	1	1	yes	date missing or before 2021
+MUTYH-p.Gly396Asp	ClinVar	1	1	no	
+BRAF-V600E	CIViC	111	5	yes	context-dependent evidence; date missing or before 2021
+EGFR-L858R	CIViC	48	3	yes	context-dependent evidence; date missing or before 2021
+KRAS-G12C	CIViC	18	4	yes	context-dependent evidence; date missing or before 2021
+IDH1-R132H	CIViC	4	1	yes	date missing or before 2021
+PIK3CA-H1047R	CIViC	30	4	yes	context-dependent evidence; date missing or before 2021
