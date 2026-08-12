@@ -4,6 +4,7 @@ title: "ReproVar: an auditable mini-benchmark for public cancer-variant evidence
 type: software
 version: 0.1.0
 date-released: 2026-08-12
+doi: 10.5281/zenodo.21901951
 authors:
   - family-names: "Rehman"
     given-names: "Syed Sabih Ur"
@@ -17,4 +18,3 @@ keywords:
   - variant interpretation
   - cancer genomics
   - precision oncology
-

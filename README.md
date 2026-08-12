@@ -1,5 +1,7 @@
 # ReproVar
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21901951.svg)](https://doi.org/10.5281/zenodo.21901951)
+
 **An auditable mini-benchmark for public cancer-variant evidence retrieval**
 
 ReproVar retrieves frozen public records for ten representative cancer variants, normalises provenance and review fields, and flags evidence that needs manual review. Five germline variants are drawn from ClinVar; five somatic variants are evaluated through accepted CIViC evidence items.
@@ -66,4 +68,4 @@ Source data remain subject to the source organisations' terms and disclaimers. C
 
 ## Citation
 
-Please cite the archived software release using [`CITATION.cff`](CITATION.cff). A Zenodo DOI will be added after the first public release is archived.
+Please cite the archived software release using [`CITATION.cff`](CITATION.cff): [doi:10.5281/zenodo.21901951](https://doi.org/10.5281/zenodo.21901951).
